@@ -1,0 +1,60 @@
+body {
+    background-color: #dbe4ee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px;
+}
+
+.container {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 15px gray;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+.title {
+    text-align: center;
+    color: gray;
+    font-size: 18px;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+h2:hover {
+    color: rgb(96, 89, 89);
+}
+
+hr {
+    border: 1px solid lightgray;
+}
+
+.skill {
+    background-color: #dbeafe;
+    padding: 8px 15px;
+    border-radius: 20px;
+    margin: 5px;
+    display: inline-block;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
